@@ -1,2 +1,5 @@
 # hello-world
-This is the first project
+
+Hi Stranger,
+
+This is not what you think, what is dead may never die!
